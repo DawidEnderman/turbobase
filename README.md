@@ -1,6 +1,8 @@
 ![turbobase](https://github.com/user-attachments/assets/fb1b08c3-2846-423a-8f4b-e605953e38ba)
 # Turbobase
 A Firebase Extension for Turbowarp
+# Tutorial:
+https://www.youtube.com/watch?v=psHGaCOzivI
 # What it can do:
 - Register accounts
 - Send reset password email
