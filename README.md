@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=psHGaCOzivI
 - Fetch data from realtime database
 - Delete data from realtime database
 - Login to account
+- Get user UID
 # Connecting to Firebase:
 ![image](https://github.com/user-attachments/assets/c1b98ef2-3f72-49ed-b1b4-e37538841e5d)
 # Making simple register:
@@ -24,4 +25,6 @@ https://www.youtube.com/watch?v=psHGaCOzivI
 ![image](https://github.com/user-attachments/assets/8f120e78-809e-41db-b903-8a6c9e4f4510)
 # Fetching data:
 ![image](https://github.com/user-attachments/assets/23318390-a564-4638-b7b0-7d18c1cd3f51)
+# Getting UID:
+![image](https://github.com/user-attachments/assets/6d09f685-2d06-4831-bd6a-feaaa29b8911)
 # And thats it. I hope this extension will help!
