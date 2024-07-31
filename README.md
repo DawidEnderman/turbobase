@@ -21,4 +21,4 @@ A Firebase Extension for Turbowarp
 ![image](https://github.com/user-attachments/assets/8f120e78-809e-41db-b903-8a6c9e4f4510)
 # Fetching data:
 ![image](https://github.com/user-attachments/assets/23318390-a564-4638-b7b0-7d18c1cd3f51)
-And thats it. I hope this extension will help!
+# And thats it. I hope this extension will help!
